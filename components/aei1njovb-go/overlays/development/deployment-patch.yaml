@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap-test-organization-jk/rhtap-qe:jenkins-b43e955af7c63687557142fabb22c11197c3bb8d
+        - image: quay.io/rhtap-test-organization-jk/rhtap-qe:jenkins-7bce454f08bbb2f740d77b161f58b0efe8d9b5f8
           name: container-image
